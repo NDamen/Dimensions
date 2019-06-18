@@ -31,7 +31,6 @@ NOTE: A single sentence or segment of text can be categorized as belonging to mo
 
 
 
-
 #### 1.	Information Source
 Information Source refers to the origin of the information with respect to the individual or the individual’s organization that generated the idea. Partially describes idea ownership.
 
